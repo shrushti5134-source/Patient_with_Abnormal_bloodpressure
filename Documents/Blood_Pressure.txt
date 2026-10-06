@@ -1,0 +1,163 @@
+BLOOD PRESSURE KNOWLEDGE BASE
+
+1. WHAT IS BLOOD PRESSURE?
+
+Blood pressure is the force of blood pushing against the walls of the arteries as the heart pumps blood through the body. Blood pressure is normally written as two numbers, such as 120/80 mm Hg.
+
+The first number is called systolic blood pressure. It represents the pressure in the arteries when the heart contracts and pumps blood.
+
+The second number is called diastolic blood pressure. It represents the pressure in the arteries when the heart relaxes between heartbeats.
+
+The unit used for blood pressure is millimeters of mercury, written as mm Hg.
+
+Blood pressure changes during the day depending on factors such as physical activity, stress, sleep, and other conditions. A single blood pressure reading does not necessarily establish a diagnosis of hypertension. Blood pressure should be measured appropriately and interpreted by a healthcare professional when needed.
+
+2. BLOOD PRESSURE CATEGORIES
+
+Blood pressure categories commonly used by the American Heart Association are based on systolic and diastolic measurements.
+
+Normal:
+Systolic blood pressure is less than 120 mm Hg AND diastolic blood pressure is less than 80 mm Hg.
+
+Elevated:
+Systolic blood pressure is 120–129 mm Hg AND diastolic blood pressure is less than 80 mm Hg.
+
+Stage 1 hypertension:
+Systolic blood pressure is 130–139 mm Hg OR diastolic blood pressure is 80–89 mm Hg.
+
+Stage 2 hypertension:
+Systolic blood pressure is 140 mm Hg or higher OR diastolic blood pressure is 90 mm Hg or higher.
+
+Severe hypertension:
+Systolic blood pressure is higher than 180 mm Hg and/or diastolic blood pressure is higher than 120 mm Hg.
+
+Blood pressure categories are intended to help understand blood pressure readings. A healthcare professional should confirm a diagnosis and determine appropriate management.
+
+3. SYSTOLIC AND DIASTOLIC BLOOD PRESSURE
+
+Systolic blood pressure is the upper number in a blood pressure reading. It measures arterial pressure when the heart contracts.
+
+Diastolic blood pressure is the lower number. It measures arterial pressure when the heart relaxes between beats.
+
+For example, in a reading of 130/85 mm Hg:
+
+Systolic blood pressure = 130 mm Hg
+Diastolic blood pressure = 85 mm Hg
+
+Both systolic and diastolic values are important when interpreting blood pressure.
+
+4. FACTORS THAT CAN AFFECT BLOOD PRESSURE
+
+Blood pressure can be influenced by many factors.
+
+Important risk factors associated with high blood pressure include:
+
+* Older age
+* Family history of high blood pressure
+* Physical inactivity
+* Unhealthy diet
+* High sodium intake
+* Excessive alcohol consumption
+* Tobacco use
+* Being overweight or obese
+* Diabetes
+* Kidney disease
+* Other health conditions
+* Long-term stress
+* Environmental factors
+
+Some risk factors, such as age and family history, cannot be changed. Other factors, including physical activity, diet, tobacco use, alcohol consumption, and body weight, can often be modified.
+
+5. SYMPTOMS ASSOCIATED WITH HIGH BLOOD PRESSURE
+
+High blood pressure often has no obvious warning signs or symptoms. Many people may have high blood pressure without knowing it.
+
+The only reliable way to know a person's blood pressure is to measure it.
+
+Very high blood pressure may be associated with symptoms such as:
+
+* Severe headache
+* Chest pain
+* Difficulty breathing
+* Blurred or changed vision
+* Dizziness
+* Nausea or vomiting
+* Confusion
+* Nosebleeds
+
+Symptoms should not be used alone to determine whether someone has high blood pressure. Blood pressure measurement and appropriate medical evaluation are important.
+
+6. LIFESTYLE FACTORS
+
+Several healthy lifestyle behaviors can help support healthy blood pressure.
+
+Physical activity:
+Regular physical activity supports cardiovascular health and can help with blood pressure management.
+
+Healthy diet:
+A balanced diet with appropriate amounts of fruits, vegetables, and other nutritious foods can support cardiovascular health. Limiting excessive sodium intake is also important.
+
+Healthy body weight:
+Maintaining a healthy weight can help reduce the risk of high blood pressure.
+
+Tobacco:
+Avoiding tobacco is important because tobacco use can increase cardiovascular risk and affect blood vessels.
+
+Alcohol:
+Excessive alcohol consumption can increase blood pressure. Limiting alcohol can help reduce risk.
+
+Stress:
+Managing long-term stress can be part of a healthy lifestyle.
+
+Regular monitoring:
+Checking blood pressure regularly can help identify changes and allow a person and their healthcare professional to monitor trends.
+
+7. WHEN TO SEEK MEDICAL ATTENTION
+
+Very high blood pressure can require urgent medical attention.
+
+If a blood pressure reading is higher than 180/120 mm Hg, it should be taken seriously.
+
+If blood pressure is higher than 180/120 mm Hg and the person also has symptoms such as chest pain, shortness of breath, back pain, numbness, weakness, changes in vision, or difficulty speaking, emergency medical care should be sought immediately.
+
+A machine-learning prediction should never delay emergency medical care.
+
+8. IMPORTANCE OF REGULAR BLOOD PRESSURE MONITORING
+
+Regular blood pressure monitoring can help identify whether readings are changing over time.
+
+When measuring blood pressure at home, appropriate measurement technique is important. The person should sit with their back supported, keep both feet flat on the floor, support the arm at heart level, remain still, and avoid talking during the measurement.
+
+Keeping a record of blood pressure readings can help healthcare professionals understand patterns and monitor changes.
+
+A healthcare professional should be consulted when readings are repeatedly outside the healthy range or when there are concerns about blood pressure.
+
+9. MACHINE LEARNING AND BLOOD PRESSURE PREDICTION
+
+Machine learning can be used to analyze patient data and identify patterns associated with blood pressure abnormality.
+
+In this project, a Random Forest classification model is used to predict the target variable called "Blood Pressure Abnormality."
+
+The model produces a prediction based on the features provided to it during training.
+
+The machine-learning prediction is not a medical diagnosis.
+
+Model predictions depend on the quality and characteristics of the training dataset. A prediction can be incorrect, and the model may not generalize to every patient or clinical situation.
+
+The prediction should therefore be considered an educational or analytical result and should not replace professional medical evaluation.
+
+10. PROJECT LIMITATIONS
+
+This project is a machine-learning demonstration using a specific dataset.
+
+The dataset may not represent every population, age group, medical condition, or real-world clinical setting.
+
+The Random Forest model learns patterns from the available training data. Its performance can change when it is applied to different datasets.
+
+The model's accuracy alone does not determine whether a prediction is medically useful.
+
+Precision, recall, F1-score, confusion matrix, and other evaluation metrics should also be considered when evaluating the classifier.
+
+The application should not be used to diagnose, treat, or make medical decisions about a person.
+
+Users with health concerns should consult an appropriately qualified healthcare professional.
